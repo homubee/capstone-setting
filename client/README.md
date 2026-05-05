@@ -2,7 +2,7 @@
 
 ## Description
 
-- 어드민 구현을 위한 클라이언트 서버
+- 어드민 구현을 위한 클라이언트
 
 ## Environment
 
